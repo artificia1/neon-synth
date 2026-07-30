@@ -4,7 +4,7 @@
   # 🎹 NEON//SYNTH
   **Procedural Web Audio Engine & Reactive Visualizer**
   
-  [**🔴 Live Demonstration**](https://your-portfolio-link.vercel.app) &nbsp;&bull;&nbsp;
+  [**🔴 Live Demonstration**][https://your-portfolio-link.vercel.app](https://neon-synth-smoky.vercel.app/) &nbsp;&bull;&nbsp;
   [**Source Code**](#)
 </div>
 
