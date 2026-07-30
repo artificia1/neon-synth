@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/78df55ae-c51c-4f04-a30f-57caccdba88f)" alt="Neon Synth Preview" width="100%">
+  <img width="1211" height="633" alt="image" src="https://github.com/user-attachments/assets/3b47fb91-a662-47b4-a4d2-64e9bf80ffac" />
+
 
 
   # 🎹 NEON//SYNTH
