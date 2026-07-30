@@ -107,7 +107,7 @@ const BLACK_LAYOUT: { note: KeyDef; leftPct: number }[] = [];
 }
 
 const OSC_TYPES: OscillatorType[] = ["sine", "square", "sawtooth", "triangle"];
-const OSC_LABEL: Record<OscillatorType, string> = {
+const OSC_LABEL: Record<string, string> = {
   sine: "SIN",
   square: "SQR",
   sawtooth: "SAW",
