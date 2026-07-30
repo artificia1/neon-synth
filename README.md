@@ -56,4 +56,4 @@ npm run dev
 
 ---
 
-*Engineered and developed by [Your Name].*
+*Engineered and developed by [Artificia].*
