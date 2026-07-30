@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Synthesizer+Preview+GIF" alt="Neon Synth Preview" width="100%">
+  <img src="(https://github.com/user-attachments/assets/78df55ae-c51c-4f04-a30f-57caccdba88f)" alt="Neon Synth Preview" width="100%">
+
 
   # 🎹 NEON//SYNTH
   **Procedural Web Audio Engine & Reactive Visualizer**
